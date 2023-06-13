@@ -390,9 +390,9 @@
             "dev": true
         },
         "node_modules/core-js": {
-            "version": "3.21.0",
-            "resolved": "https://registry.npmjs.org/core-js/-/core-js-3.21.0.tgz",
-            "integrity": "sha512-YUdI3fFu4TF/2WykQ2xzSiTQdldLB4KVuL9WeAy5XONZYt5Cun/fpQvctoKbCgvPhmzADeesTk/j2Rdx77AcKQ==",
+            "version": "3.31.0",
+            "resolved": "https://registry.npmjs.org/core-js/-/core-js-3.31.0.tgz",
+            "integrity": "sha512-NIp2TQSGfR6ba5aalZD+ZQ1fSxGhDo/s1w0nx3RYzf2pnJxt7YynxFlFScP6eV7+GZsKO95NSjGxyJsU3DZgeQ==",
             "dev": true,
             "hasInstallScript": true,
             "funding": {
@@ -1683,9 +1683,9 @@
             "dev": true
         },
         "core-js": {
-            "version": "3.21.0",
-            "resolved": "https://registry.npmjs.org/core-js/-/core-js-3.21.0.tgz",
-            "integrity": "sha512-YUdI3fFu4TF/2WykQ2xzSiTQdldLB4KVuL9WeAy5XONZYt5Cun/fpQvctoKbCgvPhmzADeesTk/j2Rdx77AcKQ==",
+            "version": "3.31.0",
+            "resolved": "https://registry.npmjs.org/core-js/-/core-js-3.31.0.tgz",
+            "integrity": "sha512-NIp2TQSGfR6ba5aalZD+ZQ1fSxGhDo/s1w0nx3RYzf2pnJxt7YynxFlFScP6eV7+GZsKO95NSjGxyJsU3DZgeQ==",
             "dev": true
         },
         "cross-spawn": {
