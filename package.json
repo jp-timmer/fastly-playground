@@ -4,7 +4,7 @@
         "url": "https://github.com/fastly/compute-starter-kit-js-proto/issues"
     },
     "dependencies": {
-        "@fastly/js-compute": "^0.2.4"
+        "@fastly/js-compute": "^0.6.0"
     },
     "devDependencies": {
         "core-js": "^3.19.1",
