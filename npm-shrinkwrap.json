@@ -598,9 +598,9 @@
             }
         },
         "node_modules/@fastly/js-compute": {
-            "version": "3.34.0",
-            "resolved": "https://registry.npmjs.org/@fastly/js-compute/-/js-compute-3.34.0.tgz",
-            "integrity": "sha512-gHAj6MMzZkQWk6uXCipLnH+hluMTdlsNdvS59M7MMkM6gCcfF3xkglX9NB4i7Gv6T4lCwVCT5+bacS85699jVg==",
+            "version": "3.35.1",
+            "resolved": "https://registry.npmjs.org/@fastly/js-compute/-/js-compute-3.35.1.tgz",
+            "integrity": "sha512-ZUC5AlA74d8qKtKo5jmKUY2yTHIM3QmqeiBIgzwoWJO3ljtBPb/CzSmD+E/XXFjDG6h2rTt6X6HsQkTT+jKCbA==",
             "dependencies": {
                 "@bytecodealliance/jco": "^1.7.0",
                 "@bytecodealliance/weval": "^0.3.2",
@@ -3409,9 +3409,9 @@
             "optional": true
         },
         "@fastly/js-compute": {
-            "version": "3.34.0",
-            "resolved": "https://registry.npmjs.org/@fastly/js-compute/-/js-compute-3.34.0.tgz",
-            "integrity": "sha512-gHAj6MMzZkQWk6uXCipLnH+hluMTdlsNdvS59M7MMkM6gCcfF3xkglX9NB4i7Gv6T4lCwVCT5+bacS85699jVg==",
+            "version": "3.35.1",
+            "resolved": "https://registry.npmjs.org/@fastly/js-compute/-/js-compute-3.35.1.tgz",
+            "integrity": "sha512-ZUC5AlA74d8qKtKo5jmKUY2yTHIM3QmqeiBIgzwoWJO3ljtBPb/CzSmD+E/XXFjDG6h2rTt6X6HsQkTT+jKCbA==",
             "requires": {
                 "@bytecodealliance/jco": "^1.7.0",
                 "@bytecodealliance/weval": "^0.3.2",
