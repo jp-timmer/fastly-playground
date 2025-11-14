@@ -598,9 +598,9 @@
             }
         },
         "node_modules/@fastly/js-compute": {
-            "version": "3.35.1",
-            "resolved": "https://registry.npmjs.org/@fastly/js-compute/-/js-compute-3.35.1.tgz",
-            "integrity": "sha512-ZUC5AlA74d8qKtKo5jmKUY2yTHIM3QmqeiBIgzwoWJO3ljtBPb/CzSmD+E/XXFjDG6h2rTt6X6HsQkTT+jKCbA==",
+            "version": "3.35.2",
+            "resolved": "https://registry.npmjs.org/@fastly/js-compute/-/js-compute-3.35.2.tgz",
+            "integrity": "sha512-NgVw5mG/uliRKBMwrXm7Z1BZoxoPDvOUnGv/WMkoOglDBP208CwVjcLSVWbVIb3z22gP8iT2HCQBKj57GDRISQ==",
             "dependencies": {
                 "@bytecodealliance/jco": "^1.7.0",
                 "@bytecodealliance/weval": "^0.3.2",
@@ -614,6 +614,14 @@
             "bin": {
                 "js-compute": "js-compute-runtime-cli.js",
                 "js-compute-runtime": "js-compute-runtime-cli.js"
+            },
+            "peerDependencies": {
+                "typescript": "^5.9.0"
+            },
+            "peerDependenciesMeta": {
+                "typescript": {
+                    "optional": true
+                }
             }
         },
         "node_modules/@jridgewell/gen-mapping": {
@@ -3423,9 +3431,9 @@
             "optional": true
         },
         "@fastly/js-compute": {
-            "version": "3.35.1",
-            "resolved": "https://registry.npmjs.org/@fastly/js-compute/-/js-compute-3.35.1.tgz",
-            "integrity": "sha512-ZUC5AlA74d8qKtKo5jmKUY2yTHIM3QmqeiBIgzwoWJO3ljtBPb/CzSmD+E/XXFjDG6h2rTt6X6HsQkTT+jKCbA==",
+            "version": "3.35.2",
+            "resolved": "https://registry.npmjs.org/@fastly/js-compute/-/js-compute-3.35.2.tgz",
+            "integrity": "sha512-NgVw5mG/uliRKBMwrXm7Z1BZoxoPDvOUnGv/WMkoOglDBP208CwVjcLSVWbVIb3z22gP8iT2HCQBKj57GDRISQ==",
             "requires": {
                 "@bytecodealliance/jco": "^1.7.0",
                 "@bytecodealliance/weval": "^0.3.2",
